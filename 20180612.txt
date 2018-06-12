@@ -1,2 +1,2 @@
 jdfjajsjfljasljfalksjldja
-it is a testing file
+Git is a testing file.
