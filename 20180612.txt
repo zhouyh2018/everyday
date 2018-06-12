@@ -3,8 +3,12 @@ from testing2
 jdfjajsjfljasljfalksjldja
 Git is a testing file.
 a third line
-v0
-v1
-v2
+main-v0
+main-v1
+main-v2-rel1
 main-v3
 main-v4
+rel1_bugfix-v0
+rel1_bugfix-v1
+rel1_bugfix-v2-rel1.1
+main-v5
