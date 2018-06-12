@@ -7,3 +7,4 @@ main-v0
 main-v1
 main-v2-rel1
 rel1_bugfix-v0
+rel1_bugfix-v1
