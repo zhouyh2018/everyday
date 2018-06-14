@@ -10,5 +10,18 @@ main-v3
 main-v4
 rel1_bugfix-v0
 rel1_bugfix-v1
-rel1_bugfix-v2-rel1.1
+rel1_bugfix-v2-rel1.1 ready to merge
 main-v5
+rel2_integration-v0
+rel2_integration-v1
+db_update-v0
+db_update-v1
+db_update-v2
+db_update-v3 ready to merge
+rel2_integration-v2
+win98_port-v0
+win98_port-v1
+win98_port-v2
+win98_port-v3 ready to merge
+rel2_integration-v3 ready to merge
+main-v6
